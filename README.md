@@ -19,16 +19,19 @@ Realizar a preparação e análise de um conjunto de dados comportamentais, apli
 - Visualização de resultados  
 
 ## Estrutura do Projeto
+```
 behaviour_analysis/
-├─ data/
-│  └─ personality_dataset.csv
-├─ notebooks/
-│  └─ exploratory_analysis.ipynb
-├─ saved_model/
-│  └─ personality_predictor.pkl
-├─ LICENSE
-├─ README.md
-└─ requirements.txt
+├── data/
+│   └── personality_dataset.csv
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+├── saved_model/
+│   └── personality_predictor.pkl
+├── .venv/
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
 
 ## Notas
 Este projeto foi desenvolvido no contexto de aprendizagem em ciência de dados.  
